@@ -11,6 +11,7 @@ node_modules
 dist
 dist-ssr
 *.local
+src/05-useLayoutEffect
 
 # Editor directories and files
 .vscode/*
